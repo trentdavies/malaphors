@@ -42,3 +42,6 @@ A curated list of [ malaphors ](https://en.wiktionary.org/wiki/malaphor).
 ### It sticks out like a sore throat.
 
 ### It's like looking for a needle in a hayride.
+
+### Let's get this ball started.
+
