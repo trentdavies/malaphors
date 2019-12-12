@@ -48,3 +48,5 @@ A curated list of [ malaphors ](https://en.wiktionary.org/wiki/malaphor).
 ### Down the torpedoes!
 
 ### It's not rocket surgery
+
+### when the rubber hits the fan
